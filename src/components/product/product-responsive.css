@@ -1,0 +1,30 @@
+/* 1440 */
+/* 1024 */
+/* 992 */
+/* 768 */
+@media (max-width: 768px) {
+    .products {
+        padding: 10px;
+    }
+    .products-header {
+        flex-direction: column;
+        justify-content: center;
+        margin-bottom: 15px;
+    }
+    .products-header span {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+    .products-header a {
+        font-size: 13px;
+    }
+    .showcase .showcase-price-new {
+        font-size: 14px;
+    }
+    .showcase .showcase-price-old {
+        font-size: 12px;
+    }
+}
+/* 425 */
+/* 375 */
+/* 325 */

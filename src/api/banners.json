@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "image": "https://cdn.dsmcdn.com/ty423/campaign/banners/original/605258/a1d1256a19_0.jpg",
+        "title": "Ev & Dekorasyon",
+        "buttonTitle": "Alışverişe Başla",
+        "url":"#"
+    },
+    {
+        "id": 2,
+        "image": "https://cdn.dsmcdn.com/ty434/pimWidgetApi/mobile_20220516044041_2226816KadinMobile202204271802hummelmayis.jpg",
+        "title": "Hummel",
+        "buttonTitle": "Alışverişe Başla",
+        "url":"#"
+    },
+    {
+        "id": 3,
+        "image": "https://cdn.dsmcdn.com/ty390/campaign/banners/original/603009/e85192fa32_0.jpg",
+        "title": "Kozmetik",
+        "buttonTitle": "Alışverişe Başla",
+        "url":"#"
+    },
+    {
+        "id": 4,
+        "image": "https://cdn.dsmcdn.com/ty432/pimWidgetApi/mobile_20220516060536_avvamobilebanner.jpg",
+        "title": "Avva",
+        "buttonTitle": "Alışverişe Başla",
+        "url":"#"
+    },
+    {
+        "id": 5,
+        "image": "https://cdn.dsmcdn.com/ty432/campaign/banners/original/604851/0907bf802b_0.jpg",
+        "title": "Çeyiz Kombinleri",
+        "buttonTitle": "Alışverişe Başla",
+        "url":"#"
+    },
+    {
+        "id": 6,
+        "image": "https://cdn.dsmcdn.com/ty433/campaign/banners/original/605309/feb838c636_0.jpg",
+        "title": "Sağlık",
+        "buttonTitle": "Alışverişe Başla",
+        "url":"#"
+    }
+]

@@ -1,0 +1,39 @@
+/* 1440 */
+/* 1024 */
+@media (max-width: 1024px) {
+    header .header-bottom,
+    .user-menu a span,
+    .favorites-menu a span,
+    .cart-menu a span {
+        display: none;
+    }
+    .mobile-navigation .mobile-navigation-content {
+        display: none;
+    }
+}
+/* 992 */
+@media (max-width: 992px) {
+    header .header-top {
+        display: none;
+    }
+    .logo a img {
+        max-height: 45px;
+    }
+    .search form input {
+        height: 40px;
+    }
+    .mobile-navigation a {
+        color: #333;
+        font-size: 16px;
+    }
+}
+/* 768 */
+/* 425 */
+/* 375 */
+/* 325 */
+@media (max-width: 325px) {
+    .logo a img {
+        max-height: 38px;
+    }
+}
+

@@ -1,0 +1,49 @@
+.popular-categories {
+    margin-bottom: 30px;
+}
+
+.popular-categories .popular-categories-image {
+    margin-bottom: 15px;
+}
+
+.popular-categories .popular-categories-image a {
+    display: block;
+    position: relative;
+    overflow: hidden;
+    width: 70px;
+    height: 70px;
+    flex: 0 0 70px;
+    margin: 0 auto;
+    border: 1px solid #e6e6e6;
+    border-radius: 100%;
+    transition: ease-in-out all .3s;
+}
+
+.popular-categories .popular-categories-image a img {
+    max-width: 100%;
+    object-fit: cover;
+}
+
+.popular-categories .popular-categories-title a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 40px;
+    line-height: 20px;
+    color: #111;
+    font-size: 13px;
+    transition: ease-in-out all .3s;
+}
+
+.popular-categories .popular-categories-item:hover .popular-categories-image a {
+    border-color: #f28232;
+}
+
+.popular-categories .popular-categories-item:hover .popular-categories-title a {
+    color: #f28232;
+}
+
+.slick-slide {
+    height: auto;
+}

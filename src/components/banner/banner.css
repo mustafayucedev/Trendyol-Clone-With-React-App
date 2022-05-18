@@ -1,0 +1,53 @@
+.home-banners .home-banner-item a {
+    display: block;
+    position: relative;
+    overflow: hidden;
+    color: #ffffff;
+    font-size: 13px;
+    box-shadow: 0 0 7px #d3d3d3;
+    border-radius: 6px;
+    transition: ease-in-out all .3s;
+}
+
+.home-banners .home-banner-item .home-banner-image img  {
+    max-width: 100%;
+    transition: ease-in-out all .3s;
+}
+
+.home-banners .home-banner-item .home-banner-content  {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    height: 35px;
+    padding: 0 15px;
+    background-color: #1b1b1b;
+    transition: ease-in-out all .3s;
+}
+
+.home-banners .home-banner-item .home-banner-content .home-banner-title {
+   font-weight: 500;
+}
+
+.home-banners .home-banner-item .home-banner-content .home-banner-button-title {
+   opacity: 0;
+   visibility: hidden;
+   transition: ease-in-out all .3s;
+}
+
+.home-banners .home-banner-item a:hover .home-banner-image img {
+    transform: scale(1.03);
+}
+
+.home-banners .home-banner-item a:hover .home-banner-content {
+    background-color: #f27a1a;
+}
+
+.home-banners .home-banner-item a:hover .home-banner-button-title {
+    opacity: 1;
+    visibility: visible;
+}

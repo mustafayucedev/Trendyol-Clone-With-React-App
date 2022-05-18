@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Airpods 2. Nesil i12 Pro Siyah Bluetooth Kulaklık Muhteşem Ses Performansı",
+        "brand": "TrkTech",
+        "oldPrice": "129.90 TL",
+        "newPrice": "89.90 TL",
+        "image": "https://cdn.dsmcdn.com/ty138/product/media/images/20210630/9/105708006/137727483/1/1_org.jpg",
+        "category": "Elektronik"
+    },
+    {
+        "id": 2,
+        "name": "Clonet Extra Banyo Temizleyici Ve Kireç Çözücü 750 ml",
+        "brand": "Diversey",
+        "oldPrice": "99.50 TL",
+        "newPrice": "59.90 TL",
+        "image": "https://cdn.dsmcdn.com/ty385/product/media/images/20220406/13/84461473/95325617/1/1_org.jpg",
+        "category": "Temizlik"
+    },
+    {
+        "id": 3,
+        "name": "Airpods i12 Beyaz Bluetooth Kulaklık Muhteşem Ses Performansı",
+        "brand": "TrkTech",
+        "oldPrice": "199.90 TL",
+        "newPrice": "129.90 TL",
+        "image": "https://cdn.dsmcdn.com/ty323/product/media/images/20220204/14/43679502/173116697/1/1_org.jpg",
+        "category": "Elektronik"
+    },
+    {
+        "id": 4,
+        "name": "Hydrosolution Yüz Temizleme Jeli 200 ml",
+        "brand": "Procsin",
+        "oldPrice": "89.90 TL",
+        "newPrice": "49.90 TL",
+        "image": "https://cdn.dsmcdn.com/ty370/product/media/images/20220322/9/74317133/195859633/1/1_org.jpg",
+        "category": "Kozmetik"
+    },
+    {
+        "id": 5,
+        "name": "Venus Comfort Glide Breeze Tıraş Makinesi + 2 Yedek Başlık",
+        "brand": "Gillette Venüs",
+        "oldPrice": "49.90 TL",
+        "newPrice": "29.90 TL",
+        "image": "https://cdn.dsmcdn.com/ty431/product/media/images/20220513/12/110416421/6186880/1/1_org.jpg",
+        "category": "Kozmetik"
+    },
+    {
+        "id": 6,
+        "name": "Truecolor Renkli Saç Boyası Mor 250 ml",
+        "brand": "Trucare",
+        "oldPrice": "75.90 TL",
+        "newPrice": "42.90 TL",
+        "image": "https://cdn.dsmcdn.com/ty325/product/media/images/20220208/17/47093034/217712716/5/5_org.jpg",
+        "category": "Kozmetik"
+    }
+]
